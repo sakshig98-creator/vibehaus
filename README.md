@@ -1,3 +1,60 @@
+[![VibeHaus Case Study](assets/VibeHaus-Banner.png)](assets/VibeHaus-Banner.png)
+
+# ✨ VibeHaus — AI Friendship Discovery
+
+### AI Product Management Capstone | Berlin
+
+An AI-powered friendship-discovery product designed to help **expats, newcomers, and locals in Berlin** find people they genuinely connect with — and turn those connections into real friendships.
+
+VibeHaus goes beyond profile browsing by combining **personal fit, mutual intent, explained recommendations, and real-world activities**. Users can discover compatible people, understand *why they might vibe*, become **Vibemates** through mutual consent, and move naturally toward chat, coffee, activities, and events.
+
+Created as part of the **Ironhack AI Product Management Bootcamp**
+
+[![Live App](https://img.shields.io/badge/🚀_Live_App-Launch-F87B1B?style=for-the-badge)](https://vibehaus-expats-connect.lovable.app/)
+[![Read PRD](https://img.shields.io/badge/📄_Read_PRD-PDF-172554?style=for-the-badge)](docs/VibeHaus-PRD.pdf)
+[![Discovery Report](https://img.shields.io/badge/🔎_Discovery_Report-PDF-7A8450?style=for-the-badge)](docs/VibeHaus-Discovery-Report.pdf)
+[![Roadmap & Backlog](https://img.shields.io/badge/🗺️_Roadmap_&_Backlog-PDF-F87B1B?style=for-the-badge)](docs/VibeHaus-MVP-Scope-Backlog-&-Roadmap.pdf)
+[![Technical Architecture](https://img.shields.io/badge/⚙️_Technical_Architecture-PDF-172554?style=for-the-badge)](docs/VibeHaus-Architecture-&-Technical-Overview.pdf)
+[![Case Study](https://img.shields.io/badge/📊_Case_Study-Presentation-7A8450?style=for-the-badge)](deck/VibeHaus-Slides-Deck.pdf)
+
+---
+
+# 📖 Overview
+
+Making friends in a new city is not necessarily difficult because there are too few people to meet. The bigger challenge is finding people you **genuinely click with** — and feeling comfortable enough to make the first move.
+
+VibeHaus explores a **fit-first approach to friendship discovery**. Instead of focusing primarily on swiping, proximity, or large social events, it recommends potential friends based on **interests, personality, social energy, friendship intent, and other compatibility signals**.
+
+Each recommendation includes an explanation of **Why You Might Vibe**, helping users understand the reasoning behind the match rather than relying on an unexplained compatibility score.
+
+Once someone feels like a good fit, the journey is designed around progressive mutual consent:
+
+> **Discover → Understand the Vibe → Send Request → Become Vibemates → Chat → Make an IRL Plan**
+
+VibeHaus also supports activity-led connection through **Coffee Vibes, Activity Vibes, and community Events**, helping users move from online discovery toward real-world friendship.
+
+---
+
+# 🚀 Project at a Glance
+
+| | |
+|---|---|
+| ✨ **Product** | VibeHaus |
+| 🎯 **Objective** | Help people find better-fit friendships and move from discovery to meaningful real-world connection |
+| 👥 **Primary Audience** | Expats and newcomers in Berlin, while remaining open to locals seeking deeper friendships |
+| 📍 **Initial Market** | Berlin, Germany |
+| 📱 **Platform** | Mobile-first responsive web app |
+| 🤖 **Product Type** | AI-powered Friendship Discovery & Social Connection |
+| 🧠 **Core Approach** | Fit-first matching · Explained recommendations · Mutual consent · Activity-led connection |
+| 📦 **MVP** | Onboarding · Vibe Match Discovery · Explained Matching · Vibemate Requests · My Haus · Chat · IRL Plans · Events · Calendar · Safety |
+| ✨ **Stretch** | Mr. Vibe AI Assistant |
+| 🛠️ **My Role** | Product Discovery · User Research · Competitive Analysis · Product Strategy · PRD · MVP Scoping · Backlog · Story Mapping · Roadmap · Responsible AI · Technical Architecture · Prototype · Success Metrics |
+| 🧪 **Prototype / Build** | Lovable · React · Supabase |
+| 📊 **North Star** | Confirmed IRL Connection Rate |
+| 🚀 **Future Vision** | Berlin scale-up · VibeHaus+ · Hosted Experiences · Multi-city expansion · Native mobile experience |
+
+---
+
 # ✨ VibeHaus
 
 ### Your vibe. Your people. Your city.
